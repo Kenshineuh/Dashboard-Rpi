@@ -1,2 +1,5 @@
-.idea/
+# BDD
 bdd.php
+.gitignore
+.idea
+
